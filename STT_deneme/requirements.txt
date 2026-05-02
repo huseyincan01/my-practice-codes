@@ -1,0 +1,83 @@
+annotated-doc==0.0.4
+anyio==4.13.0
+asttokens==3.0.1
+attrs==26.1.0
+backcall==0.2.0
+beautifulsoup4==4.14.3
+bleach==6.3.0
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1772001073725/work/certifi
+click==8.3.2
+colorama==0.4.6
+decorator==5.2.1
+defusedxml==0.7.1
+docopt==0.6.2
+executing==2.2.1
+fastjsonschema==2.21.2
+filelock @ file:///C:/Users/task_176943984631162/croot/filelock_1769440568457/work
+fsspec==2026.2.0
+gmpy2 @ file:///C:/miniconda3/conda-bld/gmpy2_1764748183167/work
+h11==0.16.0
+hf-xet==1.4.3
+httpcore==1.0.9
+httpx==0.28.1
+huggingface_hub==1.11.0
+ipython==8.12.3
+jedi==0.19.2
+Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+jupyterlab_pygments==0.3.0
+llvmlite==0.47.0
+markdown-it-py==4.0.0
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+matplotlib-inline==0.2.1
+mdurl==0.1.2
+mistune==3.2.0
+more-itertools==11.0.2
+mpmath @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mpmath_1699484863771/work
+nbclient==0.10.4
+nbconvert==7.17.1
+nbformat==5.10.4
+networkx @ file:///C:/miniconda3/conda-bld/networkx_1765378655825/work
+numba==0.65.0
+numpy==2.4.4
+openai-whisper==20250625
+packaging==26.0
+pandocfilters==1.5.1
+parso==0.8.6
+pickleshare==0.7.5
+pillow==12.1.1
+pipreqs==0.5.0
+platformdirs==4.9.6
+prompt_toolkit==3.0.52
+pure_eval==0.2.3
+Pygments==2.20.0
+PyYAML @ file:///C:/miniconda3/conda-bld/pyyaml_1763465556755/work
+pyzmq==27.1.0
+referencing==0.37.0
+regex==2026.4.4
+rich==15.0.0
+rpds-py==0.30.0
+safetensors==0.7.0
+setuptools==70.2.0
+shellingham==1.5.4
+soupsieve==2.8.3
+stack-data==0.6.3
+sympy @ file:///C:/miniconda3/conda-bld/sympy_1764762977930/work
+tiktoken==0.12.0
+tinycss2==1.4.0
+tokenizers==0.22.2
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+torchvision==0.26.0+cu128
+tqdm==4.67.3
+traitlets==5.14.3
+transformers==5.5.4
+typer==0.24.1
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+wcwidth==0.6.0
+webencodings==0.5.1
+wheel==0.46.3
+yarg==0.1.9
