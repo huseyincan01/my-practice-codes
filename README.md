@@ -1,4 +1,4 @@
-# 🚀 My Practice Codes (Doğal Dil İşleme & Makine Öğrenmesi Pratikleri)
+# 🚀 My Practice Codes (Doğal Dil İşleme & Derin Öğrenme Pratikleri)
 
 Bu depo, Doğal Dil İşleme (NLP), Derin Öğrenme (Deep Learning) ve Makine Öğrenmesi (Machine Learning) konularında gerçekleştirdiğim uygulama ve projelerin temiz, modüler kodlarını içerir.
 
@@ -6,9 +6,9 @@ Bu depo, Doğal Dil İşleme (NLP), Derin Öğrenme (Deep Learning) ve Makine Ö
 
 ## 📁 Proje Klasörleri ve İçerikleri
 
-### 1. 📝 `01_text_preprocessing`
-* **Dosya:** [`text_preprocessing_guide.py`](./01_text_preprocessing/text_preprocessing_guide.py)
-* **Açıklama:** Metin temizleme (regex, URL ve noktalama silme), NLTK ile kelime ve cümle tokenizasyonu, durdurma kelimeleri (stop-words) ayıklama, Stemming (Porter) ve Lemmatization (WordNet) süreçlerini kapsayan modüler rehber.
+### 1. 🤖 `01_keras_gru_sentiment`
+* **Dosya:** [`keras_gru_sentiment.py`](./01_keras_gru_sentiment/keras_gru_sentiment.py)
+* **Açıklama:** Keras kütüphanesinin IMDB veri kümesini kullanarak Gated Recurrent Unit (GRU) mimarisi ile uçtan uca duygu analizi (sentiment analysis) modeli oluşturma, dizileri dolgulama (padding) ve duygu tahmini (Pozitif/Negatif) gerçekleştirme.
 
 ### 2. 🔤 `02_word_embeddings_clustering`
 * **Dosya:** [`word2vec_clustering.py`](./02_word_embeddings_clustering/word2vec_clustering.py)
@@ -27,5 +27,5 @@ Bu depo, Doğal Dil İşleme (NLP), Derin Öğrenme (Deep Learning) ve Makine Ö
 ## 🛠️ Kullanılan Teknolojiler
 * **Dil:** Python 3.x
 * **NLP & Kütüphaneler:** NLTK, Gensim, Scikit-learn, Pandas, NumPy
-* **Derin Öğrenme:** PyTorch
+* **Derin Öğrenme:** TensorFlow / Keras, PyTorch
 * **Görselleştirme:** Matplotlib
