@@ -1,0 +1,27 @@
+# Python / Data Science / ML / NLP
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets / Large Files
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+
+# IDEs & Editors
+.vscode/
+.idea/
+.DS_Store
